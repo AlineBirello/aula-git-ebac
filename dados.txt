@@ -1,0 +1,12 @@
+Dados do aluno
+
+-Primeiro Nome: Aline
+-Profissão: Analista de teste
+-Cidade: Osasco
+-O que faz nas horas vaga: Churrasco
+-Feedback sobre o curso Qualidade de Software: Estou gostando do conteudo do curso.
+-Feedback sobre a plataforma de estudo da EBAC: Sinto falta de um suporte online para tirar algumas duvidas.
+
+Obrigado!!!
+
+
